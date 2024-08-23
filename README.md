@@ -1,0 +1,1 @@
+Designed and developed a placement portal using PHP, JavaScript, and Bootstrap to create a seamless interface for students and Recruiters. The portal features a Student Login page and a Recruiter Login page. 
